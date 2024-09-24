@@ -53,6 +53,6 @@ If you still want to use them, you can download the scripts and follow the same 
 
 ## Why Use This
 
-Vanguard is a kernel-level anti-cheat system that introduces several security concerns. When a program operates at the kernel level, any vulnerability in that program can potentially expose your entire system. If exploited, such vulnerabilities can lead to serious security breaches.
+Vanguard is a kernel-level anti-cheat system that can introduce several security concerns. When a program operates at the kernel level, any vulnerability in that program can potentially expose your entire system to risks such as unauthorized access or malware exploitation. If exploited, these vulnerabilities can lead to serious security breaches.
 
-By allowing the Vanguard process to run only when playing Valorant/LoL or any other game that uses vanguard, you minimize the time your system is at risk. This approach helps maintain better security while enjoying your favorite games. this is not as secure as not playing these games at all, but it is a little better.
+By allowing the Vanguard process to run only when playing Valorant, League of Legends, or any other game that uses Vanguard, you minimize the time your system is at risk. While this approach is not as secure as completely avoiding these games, it does help maintain better security when not playing.
