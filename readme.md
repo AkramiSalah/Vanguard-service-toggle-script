@@ -15,7 +15,7 @@ This script toggles the **Riot Vanguard (vgc)** service between enabled and disa
    - Inform you that the service has been enabled.
 4. Once the action is complete, the script prompts you to restart your PC to apply the changes. You can exit the CMD to cancel the restart, but the changes won't be applied until you restart your PC.
 
-## Usage
+## How To Use
 
 ### Step 1: Download the Script
 
