@@ -50,3 +50,9 @@ Now, whenever you run the shortcut, it will automatically run the script with Ad
 You can also download and use the `[Kill]Vanguard.bat` and `[Init]Vanguard.bat` scripts. The **Kill** script only stops the **vgc** process, while the **Init** script only starts it. These scripts provide more control but are clunkier to use compared to the **Toggle** script. Additionally, they won't prompt you to restart your PC, which could lead to forgetting to do so.
 
 If you still want to use them, you can download the scripts and follow the same steps to create shortcuts that run them as Administrator.
+
+## Why Use This
+
+Vanguard is a kernel-level anti-cheat system that introduces several security concerns. When a program operates at the kernel level, any vulnerability in that program can potentially expose your entire system. If exploited, such vulnerabilities can lead to serious security breaches.
+
+By allowing the Vanguard process to run only when playing Valorant/LoL or any other game that uses vanguard, you minimize the time your system is at risk. This approach helps maintain better security while enjoying your favorite games. this is not as secure as not playing these games at all, but it is a little better.
